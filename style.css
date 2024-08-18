@@ -1,3 +1,14 @@
-body {
-    font-size: 15pt;
-}
+   body{
+      background-color: #EAF6F6;
+    }
+    
+    hr{
+      border-color: white;
+      border-style: none none dotted none;
+      width: 20%;
+      border-width: 5px;
+    }
+    
+    h1,h3{
+      color: #66BFBF;
+    }
